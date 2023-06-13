@@ -1,0 +1,3 @@
+Please write your response to the reflective ethics question here.
+1. If the search results are flooded by the paid ads, it won't be a good search engine for users and it will hurt small businesses. I think we can have special flag displayed for the paid search result to highlight those records.
+2. I think "Provide transparency about how results are ranked" is the most important one since it can give the users how / why the search are generated.
